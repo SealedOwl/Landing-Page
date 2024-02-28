@@ -190,3 +190,16 @@ figcaption{
     color: #F9FAF8;
     font-size: 18px;
 }
+
+footer{
+    height: 10vh;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright-text{
+    color: #F9FAF8;
+    font-size: 20px;
+}
